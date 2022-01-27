@@ -86,8 +86,8 @@ library(tidyverse)  # load the core tidyverse
 
 ~~~
 ✔ ggplot2 3.3.5     ✔ dplyr   1.0.7
-✔ tibble  3.1.4     ✔ stringr 1.4.0
-✔ tidyr   1.1.3     ✔ forcats 0.5.1
+✔ tibble  3.1.6     ✔ stringr 1.4.0
+✔ tidyr   1.1.4     ✔ forcats 0.5.1
 ✔ purrr   0.3.4     
 ~~~
 {: .output}
@@ -518,10 +518,10 @@ hidden?
 > > 
 > > ~~~
 > > Warning: Groups with fewer than two data points have been dropped.
-> > Warning: Groups with fewer than two data points have been dropped.
-> > Warning: Groups with fewer than two data points have been dropped.
-> > Warning: Groups with fewer than two data points have been dropped.
-> > Warning: Groups with fewer than two data points have been dropped.
+> > Groups with fewer than two data points have been dropped.
+> > Groups with fewer than two data points have been dropped.
+> > Groups with fewer than two data points have been dropped.
+> > Groups with fewer than two data points have been dropped.
 > > ~~~
 > > {: .warning}
 > > 
@@ -544,10 +544,10 @@ hidden?
 > > 
 > > ~~~
 > > Warning: Groups with fewer than two data points have been dropped.
-> > Warning: Groups with fewer than two data points have been dropped.
-> > Warning: Groups with fewer than two data points have been dropped.
-> > Warning: Groups with fewer than two data points have been dropped.
-> > Warning: Groups with fewer than two data points have been dropped.
+> > Groups with fewer than two data points have been dropped.
+> > Groups with fewer than two data points have been dropped.
+> > Groups with fewer than two data points have been dropped.
+> > Groups with fewer than two data points have been dropped.
 > > ~~~
 > > {: .warning}
 > > 
